@@ -1,1 +1,4 @@
 print('Hello, World!')
+a=int(input('add number '))
+b=int(input('add another number '))
+print('you add ',a,' and', b)
