@@ -1,0 +1,5 @@
+*.exe
+*.dill
+*.bin
+_pycache_/
+venv/
